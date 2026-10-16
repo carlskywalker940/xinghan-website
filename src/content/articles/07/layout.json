@@ -1,0 +1,11 @@
+{
+  "articleId": "07",
+  "images": {
+    "image_001.jpg": {
+      "layout": "contained",
+      "maxWidth": 760
+    }
+  },
+  "toc": [],
+  "preserveSourceOrder": true
+}

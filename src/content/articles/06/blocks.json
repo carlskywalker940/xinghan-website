@@ -1,0 +1,289 @@
+[
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "今天不看病"
+      }
+    ],
+    "align": "center",
+    "id": "06-0001",
+    "sourceOrder": 1
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "休息日~"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0002",
+    "sourceOrder": 2
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐喊我中午去她家吃饭，在饭前给她老公还有之前一直网诊没有面诊过的亲戚看个病。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0003",
+    "sourceOrder": 3
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "亲戚姐和她女儿简直一模一样，好一个脉微细但欲寐，精神头蔫蔫的，说话有气无力的。小姑娘这个年纪本应能吃三碗大米饭，但草草扒拉两口就在沙发上窝着了，不再发出声响。先搞点麻附细把脉抬起来，让人有点精神头再说。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0004",
+    "sourceOrder": 4
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/06/image_001.png",
+    "sourceSrc": "images/image_001.png",
+    "alt": "坏了，以后不会要变成酒蒙子了吧 · 原文插图 1",
+    "sourceStyle": "width: 214px !important; height: auto !important; visibility: visible !important;",
+    "id": "06-0005",
+    "sourceOrder": 5,
+    "width": 741,
+    "height": 577
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "饭后，师姐说：今天炒的酱你都拿走吧，我给你装罐头瓶子里了，回去拌面条吃。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0006",
+    "sourceOrder": 6
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我：不用不用不用。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0007",
+    "sourceOrder": 7
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐：平常我也不咋做饭，你不拿放这也浪费了。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0008",
+    "sourceOrder": 8
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我：那我拿走"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0009",
+    "sourceOrder": 9
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/06/image_002.png",
+    "sourceSrc": "images/image_002.png",
+    "alt": "坏了，以后不会要变成酒蒙子了吧 · 原文插图 2",
+    "sourceStyle": "width: 199px !important; height: auto !important; visibility: visible !important;",
+    "id": "06-0010",
+    "sourceOrder": 10,
+    "width": 284,
+    "height": 277
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "晚上回家，拌好面条，正襟危坐，开始吸入"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0011",
+    "sourceOrder": 11
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "两口之后看到桌上摆的两瓶酒。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0012",
+    "sourceOrder": 12
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（注：由于自己炮制药材的需要买了些各种各样的白酒黄酒摆在桌上）"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0013",
+    "sourceOrder": 13
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这个桂林三花说是米香型，也不知道是个啥味，倒一瓶盖尝尝好了。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0014",
+    "sourceOrder": 14
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "吸溜~"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0015",
+    "sourceOrder": 15
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "真的是米香诶！且抿一口之后吃面感觉面更香了呢！"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0016",
+    "sourceOrder": 16
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "旁边是一瓶丢在那很久的红盖玻汾"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0017",
+    "sourceOrder": 17
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这个清香型的汾酒之前做药的时候抿过一口，说实话感觉味道怪怪的，不明白为啥叫清香型。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0018",
+    "sourceOrder": 18
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "就着面来一瓶盖试试"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0019",
+    "sourceOrder": 19
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/06/image_003.jpg",
+    "sourceSrc": "images/image_003.jpg",
+    "alt": "坏了，以后不会要变成酒蒙子了吧 · 原文插图 3",
+    "sourceStyle": "width: 226px !important; height: auto !important; visibility: visible !important;",
+    "id": "06-0020",
+    "sourceOrder": 20,
+    "width": 581,
+    "height": 579
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "哇靠！香爆了！平平无奇的香菇鸡蛋肉酱拌面在这一刻变成了另一幅模样，黄豆酱和面的香味在放大的同时交融在了一起。如果说之前米香型的酒在为面条稍有增香的同时，很有距离感的保持了自己原有的特点，那么这个汾酒自己本身的味道仿佛消失了，完全融入到了面中，将面里各种味道揉在一起，甚是好吃。原来“佐餐酒”是这么个用法啊！"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0021",
+    "sourceOrder": 21
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "接下来的这碗面就在一点点尝试中慢慢吃完了，用瓶盖来估测体积，"
+      },
+      {
+        "text": "0.5ml"
+      },
+      {
+        "text": "的汾酒能够为两大口面条充分增香，且几乎不会留下过多的酒味。而当每次摄入"
+      },
+      {
+        "text": "1ml"
+      },
+      {
+        "text": "左右时，酒味会比较显著，个人感觉不太喜欢。"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0022",
+    "sourceOrder": 22
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "下次有机会找我的酒蒙子朋友交流一下！不过我是绝对不会变成酒蒙子的！"
+      }
+    ],
+    "align": "justify",
+    "id": "06-0023",
+    "sourceOrder": 23
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/06/image_004.png",
+    "sourceSrc": "images/image_004.png",
+    "alt": "坏了，以后不会要变成酒蒙子了吧 · 原文插图 4",
+    "sourceStyle": "width: 213px !important; height: auto !important; visibility: visible !important;",
+    "id": "06-0024",
+    "sourceOrder": 24,
+    "width": 251,
+    "height": 259
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "撰稿：tomato"
+      }
+    ],
+    "align": "center",
+    "id": "06-0025",
+    "sourceOrder": 25
+  }
+]

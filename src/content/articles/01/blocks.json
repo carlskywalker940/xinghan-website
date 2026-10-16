@@ -1,0 +1,442 @@
+[
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "第4"
+      }
+    ],
+    "align": "center",
+    "id": "01-0001",
+    "sourceOrder": 1
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "篇"
+      }
+    ],
+    "align": "center",
+    "id": "01-0002",
+    "sourceOrder": 2
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "嗨嗨嗨！又来搓丸子了！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0003",
+    "sourceOrder": 3
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "亲爱的中医药从业者们，"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0004",
+    "sourceOrder": 4
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "你是否曾因处方打粉后体积过大，做丸子一天要吃十几个而困扰？"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0005",
+    "sourceOrder": 5
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "你是否曾因处方药性俊猛，直接打粉搓丸伤及脾胃而担忧？"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0006",
+    "sourceOrder": 6
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "你是否曾因使用打粉机粉碎含水量高的中药，黏的到处都是难以清理而愁苦？"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0007",
+    "sourceOrder": 7
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "让我们熬膏搓丸，为您带来颠覆性的制药体验！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0008",
+    "sourceOrder": 8
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/01/image_001.jpg",
+    "sourceSrc": "images/image_001.jpg",
+    "alt": "什么！蜜丸可以不用蜜搓！ · 原文插图 1",
+    "sourceStyle": "width: 186px !important; height: auto !important; visibility: visible !important;",
+    "id": "01-0009",
+    "sourceOrder": 9,
+    "width": 1080,
+    "height": 1076
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "好了我们开始讲故事"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0010",
+    "sourceOrder": 10
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我的一位师姐有点皮肤病，有些内热的那种。前一阵子找我开了几付汤药，症状压制的很快，1付下去皮色便有明显的改变。3付那些红斑与脱屑便基本上看不出来了。师姐表示非常满意。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0011",
+    "sourceOrder": 11
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "但是，我不满意！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0012",
+    "sourceOrder": 12
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/01/image_002.jpg",
+    "sourceSrc": "images/image_002.jpg",
+    "alt": "什么！蜜丸可以不用蜜搓！ · 原文插图 2",
+    "sourceStyle": "width: 197px !important; height: auto !important; visibility: visible !important;",
+    "id": "01-0013",
+    "sourceOrder": 13,
+    "width": 933,
+    "height": 936
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "依据脉象与既往疾病的发展过程来看，因为虚损导致的内热依旧存在，且胃气偏弱，喝药第二天开始就一天拉四回，拉的从胃口到直肠都疼。于是……"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0014",
+    "sourceOrder": 14
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我：你这个没好利索！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0015",
+    "sourceOrder": 15
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐：哎呀太忙了先这么着吧！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0016",
+    "sourceOrder": 16
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "几个星期后果然，老毛病尿路感染又犯了，小便涩痛短赤味道大，而且嘴里发干长了些溃疡。发际线处这次倒是没有红斑了，不过出来不少皮屑。鼻头上也出来一个几毫米直径的红斑。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0017",
+    "sourceOrder": 17
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/01/image_003.jpg",
+    "sourceSrc": "images/image_003.jpg",
+    "alt": "什么！蜜丸可以不用蜜搓！ · 原文插图 3",
+    "sourceStyle": "width: 203px !important; height: auto !important; visibility: visible !important;",
+    "id": "01-0018",
+    "sourceOrder": 18,
+    "width": 1080,
+    "height": 1013
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐：快给我治！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0019",
+    "sourceOrder": 19
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我：那喝药！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0020",
+    "sourceOrder": 20
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐：哎呀最近好忙懒得熬，能丸子吗！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0021",
+    "sourceOrder": 21
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我：让我想想……"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0022",
+    "sourceOrder": 22
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "诶还别说，丸子应该是个不错的主意！这不是丸剂溶散缓慢，能缓和药性嘛！能够照顾一下俺师姐孱弱的脾胃。而且她这个也不是一两周就能搞定，吃丸子确实方便些。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0023",
+    "sourceOrder": 23
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "于是哼哧哼哧写了个丸剂处方。写完以后，看着方子里这一片苦寒药，我陷入了沉思：说好了让药性缓和一点的呢！这些玩意打成粉直接吃肚子里怕是比汤药更伤胃。而且要达到剂量的话，怕是9克的大丸子一天也得吃不止两个。这可咋整啊。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0024",
+    "sourceOrder": 24
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/01/image_004.jpg",
+    "sourceSrc": "images/image_004.jpg",
+    "alt": "什么！蜜丸可以不用蜜搓！ · 原文插图 4",
+    "sourceStyle": "width: 199px !important; height: auto !important; visibility: visible !important;",
+    "id": "01-0025",
+    "sourceOrder": 25,
+    "width": 959,
+    "height": 947
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "突然灵光乍现，我可以把那些体积大的和药性猛的丢一起熬膏，再用这个膏和其他药粉和成丸子。这样在长达十几小时的熬煮收膏过程中，那些寒凉药的性质会渐渐变得缓和，这样吃起来胃就没有很大的负担了。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0026",
+    "sourceOrder": 26
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/01/image_005.png",
+    "sourceSrc": "images/image_005.png",
+    "alt": "什么！蜜丸可以不用蜜搓！ · 原文插图 5",
+    "sourceStyle": "width: 192px !important; height: auto !important; visibility: visible !important;",
+    "id": "01-0027",
+    "sourceOrder": 27,
+    "width": 835,
+    "height": 835
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "计划通，说干就干！一大堆草药渐渐变成两桶药汤，而又随着蒸汽一缕一缕飘出，最终在锅里留下一滩褐色的，冒着泡的浓稠液体。嗯，是时候收膏了！该加蜂蜜了。坏了，我好像没有蜂蜜了！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0028",
+    "sourceOrder": 28
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/01/image_006.jpg",
+    "sourceSrc": "images/image_006.jpg",
+    "alt": "什么！蜜丸可以不用蜜搓！ · 原文插图 6",
+    "sourceStyle": "width: 194px !important; height: auto !important; visibility: visible !important;",
+    "id": "01-0029",
+    "sourceOrder": 29,
+    "width": 1080,
+    "height": 1074
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "不过天无绝人之路，在翻箱倒柜找蜂蜜的时候，翻出来一盒陈年老麦芽糖，当年喝小建中剩的。好了就是你了，撕开包装，搞里头。收好膏，往其他药粉里一倒，趁热跟和面一样揉成了一团药泥，又随着搓丸板哐当哐当的声音，变成了一个个大丸子。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0030",
+    "sourceOrder": 30
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "还别说，这大蜜丸，不对是大“麦”丸还真挺像那么回事的！虽然过程有点丢盔卸甲，不过这个东西算是成功的做出来了。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0031",
+    "sourceOrder": 31
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/01/image_007.jpg",
+    "sourceSrc": "images/image_007.jpg",
+    "alt": "什么！蜜丸可以不用蜜搓！ · 原文插图 7",
+    "sourceStyle": "width: 204px !important; height: auto !important; visibility: visible !important;",
+    "id": "01-0032",
+    "sourceOrder": 32,
+    "width": 911,
+    "height": 726
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐取走丸子后第二天："
+      }
+    ],
+    "align": "justify",
+    "id": "01-0033",
+    "sourceOrder": 33
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐：你这丸子闻起来一股甜香味，怎么吃起来那么苦！吃完嘴里能苦一个小时！喝水吃甜的都压不下去！"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0034",
+    "sourceOrder": 34
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我：嘿嘿嘿不好意思"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0035",
+    "sourceOrder": 35
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "一周后"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0036",
+    "sourceOrder": 36
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "师姐：你这丸子不错啊，吃了没几天小便就不难受了，那天在单位复查了一把尿常规，数值也都正常了，我很满意。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0037",
+    "sourceOrder": 37
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "接下来就坚持吃了一阵丸子，总体都比较稳定，不过她这个虚的问题还是没有从根本上解决，就等她忙完这段时间想治了再说吧。"
+      }
+    ],
+    "align": "justify",
+    "id": "01-0038",
+    "sourceOrder": 38
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "策划：jacklyn"
+      }
+    ],
+    "align": "center",
+    "id": "01-0039",
+    "sourceOrder": 39
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "撰稿：tomato"
+      }
+    ],
+    "align": "center",
+    "id": "01-0040",
+    "sourceOrder": 40
+  }
+]

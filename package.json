@@ -1,0 +1,40 @@
+{
+  "name": "xinghan-fuli",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1 --port 3000",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve-static.mjs --port 3000",
+    "lint": "eslint src scripts tests && tsc --noEmit",
+    "import:content": "node scripts/import-wechat.mjs",
+    "audit:content": "node scripts/audit-content.mjs",
+    "test:e2e": "PLAYWRIGHT_BROWSERS_PATH=node_modules/.cache/ms-playwright playwright test",
+    "capture:v2": "PLAYWRIGHT_BROWSERS_PATH=node_modules/.cache/ms-playwright node scripts/capture-v2.mjs",
+    "build:pages": "node scripts/build.mjs --pages",
+    "audit:public": "node scripts/audit-public.mjs",
+    "audit:export": "node scripts/audit-export.mjs",
+    "test:pages": "PLAYWRIGHT_BROWSERS_PATH=node_modules/.cache/ms-playwright playwright test -c playwright.pages.config.ts"
+  },
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^24",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "cheerio": "^1.1.2",
+    "eslint": "^9",
+    "eslint-config-next": "^16.0.0",
+    "prettier": "^3.9.10",
+    "sharp": "^0.34.0",
+    "typescript": "^5"
+  },
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "packageManager": "pnpm@11.25.0"
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "第1"
+      }
+    ],
+    "align": "center",
+    "id": "08-0001",
+    "sourceOrder": 1
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "篇"
+      }
+    ],
+    "align": "center",
+    "id": "08-0002",
+    "sourceOrder": 2
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "八月份的时候，去一位前辈那里学习，见到了一种补精血的丸剂，填精作用十分显著，且十分平和。精亏日久，形容枯槁的更年期女性吃了能睡得踏实。交流后得知其核心的填精成分为鱼鳔与鹿筋。家里父母长辈有相关的需求，购买成品价格昂贵，带着觉知此事要躬行的想法，回来后开始尝试仿制这种丸药。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0003",
+    "sourceOrder": 3
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/08/image_001.png",
+    "sourceSrc": "images/image_001.png",
+    "alt": "大夫嘛！总要尝试制药的！ · 原文插图 1",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 304.648px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "08-0004",
+    "sourceOrder": 4,
+    "width": 1080,
+    "height": 943
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "填精的药物千千万，真正让脾胃化的动运得开的才是自己的。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0005",
+    "sourceOrder": 5
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "在拟方的过程中通过砂仁之类的配伍来促进消化吸收运化功能是一个方面，另一方面，咱们都费这个功夫自己做丸子吃了，中药的炮制方面总得跟上吧。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0006",
+    "sourceOrder": 6
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/08/image_002.png",
+    "sourceSrc": "images/image_002.png",
+    "alt": "大夫嘛！总要尝试制药的！ · 原文插图 2",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 304.648px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "08-0007",
+    "sourceOrder": 7,
+    "width": 1024,
+    "height": 812
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "传统的鱼鳔胶炮制是将晒干的鱼鳔洗净，浸泡，再熬煮9个日夜，滤出液体，倒出阴干。9天不断火，在柴薪紧张且需要人工不断添柴的古代，可是真是下了血本了。那前人他为啥这么干呢？"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0008",
+    "sourceOrder": 8
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "《黄帝内经·水热穴论》在讲人体水液代谢的时候提到“肾者，胃之关也”。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0009",
+    "sourceOrder": 9
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "在脏腑视角下强调了肾和胃的关联性。清代陈士铎进一步阐述为“胃为肾之关门”并提出了“胃关”的概念，说白了就是肾虚的人他脾胃好不了，脾胃虚弱的人他肾也好不到哪去。所以鱼鳔作为一个补肾精的药，他的受众人群基本上脾胃好不了，从日常经验来看，肉类啥的都是越炖越烂，烂了就容易消化，那鱼鳔这玩意也给他狠命的煮去吧。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0010",
+    "sourceOrder": 10
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "那这个9天是咋试出来的呢？"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0011",
+    "sourceOrder": 11
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "现代食品方向的研究发现，煮216小时左右的鱼鳔蛋白的分子量会显著下降，再煮虽然也有变化但是收益不大，煮9天算是让前人硬试出来一个“甜蜜点”了（还得是绝知此事要躬行啊）。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0012",
+    "sourceOrder": 12
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "那么我有了这么多理论基础，我的鱼胶他熬成了吗？"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0013",
+    "sourceOrder": 13
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "很遗憾，第一把并没有熬成。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0014",
+    "sourceOrder": 14
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我们想着这个化学讲过，增加反应速率的方法是啥？增大接触面积。那我们给鱼鳔它拿破壁机打碎了再熬，它不就不用煮那么久了吗！我这拥有化学知识的人，不得给他整点创新，提高一下工作效率啥的。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0015",
+    "sourceOrder": 15
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/08/image_003.png",
+    "sourceSrc": "images/image_003.png",
+    "alt": "大夫嘛！总要尝试制药的！ · 原文插图 3",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 304.648px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "08-0016",
+    "sourceOrder": 16,
+    "width": 835,
+    "height": 835
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "结果很遗憾，由于烘干条件有限，打碎的鱼鳔里含有大量脂肪以及除了胶质以外的其他蛋白，混杂其中影响了胶原蛋白的凝固，并且由于脂肪的存在导致其更容易变质。晾了3天之后当我揭开表面已经干了的那层膜的时候，迎接我的是一盘已经沤臭了的稀汤。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0017",
+    "sourceOrder": 17
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这时候仿佛看见古人在旁边笑话我：“要是捣碎了能熬的快，我们熬九天岂不是显得很不聪明？念两天书觉得自己聪明是吧，我看你真是大聪明！”好吧，算是吃了只有高中文化的亏。（当然我们也可以嘴硬说要是有冻干机的话我们的工艺就是更快呢！）"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0018",
+    "sourceOrder": 18
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/08/image_004.png",
+    "sourceSrc": "images/image_004.png",
+    "alt": "大夫嘛！总要尝试制药的！ · 原文插图 4",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 304.648px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "08-0019",
+    "sourceOrder": 19,
+    "width": 1080,
+    "height": 1080
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "熬鹿筋的时候则比较幸运，好在鹿蹄筋上面除了胶原蛋白以外是真没啥脂肪之类别的东西，打碎了以后很容易就熬黏糊了，且放一会就变成一大块猪皮冻一样的东西。切片一烘干，也算是顺利的完成了炮制。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0020",
+    "sourceOrder": 20
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "p.s.李时珍在《本草纲目》中记载了一个鹿筋的神奇用法：用来治鱼刺卡嗓子和眼睛进沙子。看起来非常的匪夷所思是吧，一个补药居然用来干这个。其实就是这玩意泡软了特别黏，用的时候将干鹿筋的一头泡软，可以把鱼刺以及眼睛里的沙子粘出来。"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0021",
+    "sourceOrder": 21
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "先就写这些吧，等丸子做出来再写写剩下的故事~"
+      }
+    ],
+    "align": "justify",
+    "id": "08-0022",
+    "sourceOrder": 22
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "撰稿：tomato"
+      }
+    ],
+    "align": "center",
+    "id": "08-0023",
+    "sourceOrder": 23
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "编辑：jacklyn"
+      }
+    ],
+    "align": "center",
+    "id": "08-0024",
+    "sourceOrder": 24
+  }
+]

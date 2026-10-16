@@ -1,0 +1,23 @@
+{
+  "articleId": "06",
+  "images": {
+    "image_001.png": {
+      "layout": "aside",
+      "maxWidth": 280
+    },
+    "image_002.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_003.jpg": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_004.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    }
+  },
+  "toc": [],
+  "preserveSourceOrder": true
+}

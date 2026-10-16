@@ -1,0 +1,327 @@
+[
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "第2"
+      }
+    ],
+    "align": "center",
+    "id": "05-0001",
+    "sourceOrder": 1
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "篇"
+      }
+    ],
+    "align": "center",
+    "id": "05-0002",
+    "sourceOrder": 2
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "在学中医以前，身边长辈酒过三巡高谈阔论之时，若讨论起中医西医，常听到这样一句“概括性陈述”。原话实在是记不大清了，大概意思就是西医治牙疼和接生与传统中医相比进步很大，可以说是降维打击。（我们在这里不去讨论这句话的是否准确或者全面，只是描述了一下这个现象）产科在下实在是接触甚少，暂不做评论。牙疼的话，毕竟咱每个人都长牙，主观上的感受还是可以谈论一二。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0003",
+    "sourceOrder": 3
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_001.png",
+    "sourceSrc": "images/image_001.png",
+    "alt": "治人，还是治菌 · 原文插图 1",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 214px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0004",
+    "sourceOrder": 4,
+    "width": 672,
+    "height": 499
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（叠甲）"
+      }
+    ],
+    "align": "center",
+    "id": "05-0005",
+    "sourceOrder": 5
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "学中医以后，拜访过一些厉害的中医大夫，在口腔科相关方面，出生于解放前的前辈几乎只管三件事：牙疼、固齿、拔牙。具体方法上也是简单粗暴，白酒、花椒止牙疼，小范围试了试并没有很好使，顶多花椒可以让麻的感觉代替牙疼，持续时间也没有很长。固齿方面有前辈提及使用牡蛎粉固齿，这个观察周期有点长，目前还没尝试出个所以然来。硬去分析的话，至少碳酸钙能够中和一下酸性环境，理论上或许能行，不过若是口腔清洁不及时，这些牡蛎粉会不会变成牙结石的一部分这也不好说。至于拔牙，则是百花齐放（毕竟拖延日久的牙病拔掉了确实是不疼了），甚至搞出了不少“独门秘传”。方式方法上，有用狠活小药水的（现在这一派已经难觅踪迹），还有通过针灸、点穴来无痛拔牙的。然而结果上还是殊途同归，为了不疼、少出血、恢复快。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0006",
+    "sourceOrder": 6
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "身边一些年轻一些的大佬则根据现在人的需求搞过一些美白也好固齿也好的药粉。不过说实话，或许有的人好用，我反正没试出什么显著差异来。这也让我或多或少的感觉或许中医真的不适合治牙吧。直到，我自己的智齿肿了。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0007",
+    "sourceOrder": 7
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_002.jpg",
+    "sourceSrc": "images/image_002.jpg",
+    "alt": "治人，还是治菌 · 原文插图 2",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 173px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0008",
+    "sourceOrder": 8,
+    "width": 1080,
+    "height": 927
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "前段时间换季降温，顺理成章的感冒发烧了。看过中医的或多或少都听说过，外感病后期常见阴虚有余热。再加上一点情志不畅产生的郁火憋着。所以，很自然的，一股虚火在一颗不幸的智齿旁边烧了起来。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0009",
+    "sourceOrder": 9
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "牙龈发炎了该咋办呢？受过九年义务教育的大家都知道，这时候大概率是因为细菌感染牙龈导致的，应该使用含有抗菌药物的漱口水，严重时就要吃抗生素了。（不要跟我说应该拔智齿！要拔也得等炎症消了才行！）只要把那可恶的细菌干死掉，一切都会好起来的。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0010",
+    "sourceOrder": 10
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_003.png",
+    "sourceSrc": "images/image_003.png",
+    "alt": "治人，还是治菌 · 原文插图 3",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 184px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0011",
+    "sourceOrder": 11,
+    "width": 369,
+    "height": 322
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "可是，口腔里众所周知的细菌繁多，我们往日无怨近日无仇，为什么要突然的攻击我！且这些天我饮食上每天都很清淡，并一直保持着正确的口腔清洁习惯！"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0012",
+    "sourceOrder": 12
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "仔细想了一下，我们小学二年级还学过一个概念：口腔内部环境与口腔菌群。当口腔环境改变，口腔菌群失衡的时候，一些土著细菌就会被逼上梁山，开始造反。那么怎么招安这些造反的细菌呢？很遗憾，小学二年级的课本上只提到了在平时要多多清洁口腔，注意饮食，改掉不良嗜好。那当细菌们真开始造反了，除了抗菌药物镇压，就别无他法了，吗？"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0013",
+    "sourceOrder": 13
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_004.png",
+    "sourceSrc": "images/image_004.png",
+    "alt": "治人，还是治菌 · 原文插图 4",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 171px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0014",
+    "sourceOrder": 14,
+    "width": 672,
+    "height": 664
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "前轱辘不转后轱辘转，东方不亮西方亮。这时候我们通过中医病机来分析，外感病后，牙齿发炎，肯定是阴虚生热啊，应该搞点滋阴的。那么该选啥来滋这个阴呢？在牙疼之前，我发现了一个现象：从退烧那天开始，我发现跟平常相比，同样早上刷完牙，同样的饮食，到了下午的时候，现在牙齿上会出现一层明显的牙垢。这让我想起来《灵枢·经脉》里头有这么一句：“足少阴气绝，则骨枯。少阴者，冬脉也，伏行而濡骨髓者也，故骨不濡，则肉不能著也；骨肉不相亲，则肉软却；肉软却，故齿长而垢，发无泽。”别的看不懂也没关系，看见齿垢就行了。好的，理论通，听内经的，这病从少阴治。那么挑啥药来治呢？翻了一眼陈士铎他老人家的书，在写了一大篇论述了上下前后牙疼分别归哪个经之后，在最下面出现了一句：“吾有统治之法：玄参一两，生地一两”。好家伙，这俩不正好是少阴的养阴药吗！"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0015",
+    "sourceOrder": 15
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "不过看了一眼剂量，多少还是有点吓人：清代一两折现在"
+      },
+      {
+        "text": "36g"
+      },
+      {
+        "text": "，别说这么多了，我之前试药的时候"
+      },
+      {
+        "text": "15g"
+      },
+      {
+        "text": "玄参就能给我干的一天拉稀"
+      },
+      {
+        "text": "3"
+      },
+      {
+        "text": "回，再加上这么多生地，这不是要完。心一横，算了，拉就拉吧，我倒是要看看到底好不好使。再说了还有这么一句话，“有病则病当之，无病则损正气”。现在上了这么大火，玄参量大点不会怎么样的。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0016",
+    "sourceOrder": 16
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_005.png",
+    "sourceSrc": "images/image_005.png",
+    "alt": "治人，还是治菌 · 原文插图 5",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 184px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0017",
+    "sourceOrder": 17,
+    "width": 672,
+    "height": 672
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "翻开药柜，嗯，只有玄参，没有生地。再摸摸脉，嗯，还有点血热。柜子里还有点赤芍，搞里头！最终小锅里装了"
+      },
+      {
+        "text": "30g"
+      },
+      {
+        "text": "玄参，"
+      },
+      {
+        "text": "10g"
+      },
+      {
+        "text": "赤芍。给自己开药主打一个剩啥吃啥。吨吨吨。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0018",
+    "sourceOrder": 18
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_006.png",
+    "sourceSrc": "images/image_006.png",
+    "alt": "治人，还是治菌 · 原文插图 6",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 191px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0019",
+    "sourceOrder": 19,
+    "width": 544,
+    "height": 540
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "喝第二天，居然没拉稀！说明方向差不多，脉摸着也软乎了些，但牙怎么还疼，接着喝！打开药柜，完了，玄参就剩"
+      },
+      {
+        "text": "15g"
+      },
+      {
+        "text": "了。算了，凑付喝吧。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0020",
+    "sourceOrder": 20
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_007.png",
+    "sourceSrc": "images/image_007.png",
+    "alt": "治人，还是治菌 · 原文插图 7",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 178px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0021",
+    "sourceOrder": 21,
+    "width": 672,
+    "height": 629
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "第三天早上：嗯？牙好像不疼了？拿舌头舔舔。嗯？智齿那也不肿了！拿手摁一摁，确实不肿也不疼了！"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0022",
+    "sourceOrder": 22
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_008.png",
+    "sourceSrc": "images/image_008.png",
+    "alt": "治人，还是治菌 · 原文插图 8",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 182px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0023",
+    "sourceOrder": 23,
+    "width": 672,
+    "height": 661
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "虽然说用抗菌药物他应该也能好使，但作为一个中医大夫，我还是觉得通过调节人体微妙的平衡，恢复正常的环境进而消除疾患，这样显得更酷一些！毕竟，招安总是比暴力镇压显得更文明嘛。"
+      }
+    ],
+    "align": "justify",
+    "id": "05-0024",
+    "sourceOrder": 24
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/05/image_009.png",
+    "sourceSrc": "images/image_009.png",
+    "alt": "治人，还是治菌 · 原文插图 9",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 138px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "05-0025",
+    "sourceOrder": 25,
+    "width": 590,
+    "height": 582
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "撰文：tomato"
+      },
+      {
+        "text": "\n"
+      }
+    ],
+    "align": "center",
+    "id": "05-0026",
+    "sourceOrder": 26
+  }
+]

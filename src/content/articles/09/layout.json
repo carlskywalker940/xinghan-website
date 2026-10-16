@@ -1,0 +1,53 @@
+{
+  "articleId": "09",
+  "images": {
+    "image_001.png": {
+      "layout": "contained",
+      "maxWidth": 130
+    },
+    "image_002.png": {
+      "layout": "contained",
+      "maxWidth": 760
+    },
+    "image_003.png": {
+      "layout": "divider",
+      "maxWidth": 720
+    },
+    "image_004.jpg": {
+      "layout": "contained",
+      "maxWidth": 760
+    },
+    "image_005.png": {
+      "layout": "divider",
+      "maxWidth": 720
+    },
+    "image_006.jpg": {
+      "layout": "contained",
+      "maxWidth": 760
+    },
+    "image_007.png": {
+      "layout": "divider",
+      "maxWidth": 720
+    },
+    "image_008.png": {
+      "layout": "divider",
+      "maxWidth": 720
+    },
+    "image_009.jpg": {
+      "layout": "contained",
+      "maxWidth": 760
+    }
+  },
+  "toc": [
+    {
+      "id": "09-0002",
+      "title": "仲景像旁的栝楼"
+    }
+  ],
+  "preserveSourceOrder": true,
+  "captions": {
+    "09-0006": ["09-0007"],
+    "09-0015": ["09-0016"],
+    "09-0027": ["09-0028"]
+  }
+}

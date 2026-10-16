@@ -1,0 +1,30 @@
+:root {
+  --color-stage: #514b43;
+  --color-paper: #f0e6d4;
+  --color-paper-light: #f9f4e8;
+  --color-ink: #232321;
+  --color-ink-secondary: #736e63;
+  --color-bronze: #b29868;
+  --color-seal: #9e4538;
+  --color-line: rgba(94, 79, 57, 0.2);
+  --stage-padding: clamp(16px, 4.6vw, 100px);
+  --paper-cut: 24px;
+  --paper-radius: 26px;
+  --shadow-paper:
+    0 12px 14px rgba(0, 0, 0, 0.15), 0 30px 45px rgba(0, 0, 0, 0.28);
+  --shadow-card:
+    0 4px 8px rgba(52, 40, 24, 0.07), 0 12px 20px rgba(52, 40, 24, 0.06);
+  --shadow-card-hover:
+    0 10px 15px rgba(52, 40, 24, 0.14), 0 22px 32px rgba(52, 40, 24, 0.15);
+  --grid-gap: clamp(18px, 2.1vw, 32px);
+  --font-serif: "Songti SC", "Noto Serif CJK SC", "STSong", serif;
+  --font-ui:
+    -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei",
+    sans-serif;
+  --font-writing:
+    "Xingkai SC", "STXingkai", "Kaiti SC", "STKaiti", "Songti SC", serif;
+  --motion-ease: cubic-bezier(0.45, 0, 0.2, 1);
+  --color-cover-light: #f9f4e8;
+  --color-cover-ink: #161c19;
+  --color-dark-overlay: rgba(16, 18, 17, 0.94);
+}

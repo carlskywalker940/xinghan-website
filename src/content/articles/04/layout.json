@@ -1,0 +1,31 @@
+{
+  "articleId": "04",
+  "images": {
+    "image_001.gif": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_002.gif": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_003.png": {
+      "layout": "contained",
+      "maxWidth": 760
+    },
+    "image_004.gif": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_005.gif": {
+      "layout": "contained",
+      "maxWidth": 340
+    }
+  },
+  "toc": [],
+  "preserveSourceOrder": true,
+  "captions": {
+    "04-0007": ["04-0008"],
+    "04-0014": ["04-0015"]
+  }
+}

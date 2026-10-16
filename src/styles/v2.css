@@ -1,0 +1,493 @@
+/* V2 preserves the existing stage, paper and source hero. */
+.scene-shell {
+  position: relative;
+  min-height: 100svh;
+  isolation: isolate;
+}
+.route-content {
+  transform-origin: 50vw 50vh;
+  min-height: 100svh;
+}
+.header-space {
+  height: 112px;
+}
+.global-header {
+  position: absolute;
+  z-index: 110;
+  top: 30px;
+  left: calc(
+    max(var(--stage-padding), (100vw - 1720px)/2) + clamp(28px, 5vw, 90px)
+  );
+  right: calc(
+    max(var(--stage-padding), (100vw - 1720px)/2) + clamp(28px, 5vw, 90px)
+  );
+  margin: 0;
+  transition:
+    top 0.35s,
+    left 0.35s,
+    right 0.35s,
+    color 0.35s;
+}
+.global-header.on-cover {
+  top: 0;
+  left: 5vw;
+  right: 5vw;
+}
+.global-header nav {
+  position: relative;
+}
+.site-header nav a:after {
+  display: none;
+}
+.active-nav-indicator {
+  position: absolute;
+  bottom: 2px;
+  left: 0;
+  width: 1px;
+  height: 1px;
+  background: currentColor;
+  transform-origin: left center;
+  opacity: 0;
+  pointer-events: none;
+  transition:
+    transform 340ms cubic-bezier(0.4, 0, 0.2, 1),
+    opacity 0.15s;
+}
+.global-header .brand {
+  visibility: visible;
+}
+.on-cover .brand {
+  visibility: hidden;
+}
+.scene-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  visibility: hidden;
+  pointer-events: none;
+  overflow: hidden;
+  background: transparent;
+}
+.scene-overlay-active {
+  visibility: visible;
+}
+.scene-capture {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  transform-origin: 50% 50%;
+  background: transparent;
+}
+.scene-capture > .route-content {
+  width: 100vw;
+}
+.scene-door {
+  position: absolute;
+  inset: 0;
+  background: url("../../public/hero/background.webp") center/cover no-repeat;
+  pointer-events: none;
+  transform-origin: left center;
+  backface-visibility: hidden;
+  will-change: transform, opacity;
+}
+.scene-door-left {
+  clip-path: polygon(0 0, 50.08% 0, 50.08% 100%, 0 100%);
+}
+.scene-door-right {
+  clip-path: polygon(49.92% 0, 100% 0, 100% 100%, 49.92% 100%);
+  transform-origin: right center;
+}
+.scene-opening .scene-capture {
+  z-index: 2;
+}
+.scene-closing .scene-door {
+  opacity: 0;
+}
+.scene-closing .scene-capture {
+  z-index: 0;
+}
+.scene-overlay-active ~ .transition-recover {
+  position: fixed;
+  bottom: 20px;
+  right: 24px;
+  z-index: 120;
+  background: var(--color-paper-light);
+  color: var(--color-ink);
+  padding: 10px 16px;
+  font-size: 12px;
+  opacity: 0.65;
+}
+.scene-overlay-active ~ .transition-recover:hover {
+  opacity: 1;
+}
+.global-header[data-transitioning="true"] {
+  pointer-events: none;
+}
+/* Native wind animations share one start time and sampled gust curve. */
+
+.wind-field {
+  --wind: 0;
+  animation: none;
+}
+.wind-field .scene-image {
+  transform: none;
+}
+.foliage-underlay,
+.foliage {
+  position: absolute;
+  inset: 0;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+.foliage-underlay {
+  background-image: url("../../public/hero/foliage-cleanplate.webp");
+  mask-image: url("../../public/hero/foliage-mask.png");
+  mask-size: cover;
+  mask-position: center;
+}
+.foliage {
+  background-image: url("../../public/hero/foreground-leaves.webp");
+  will-change: transform;
+}
+.foliage-upper {
+  clip-path: polygon(0 0, 49% 0, 49% 51%, 0 51%);
+  transform-origin: 1% 0;
+  transform: translate(calc(var(--wind) * 3px), calc(var(--wind) * -1.5px))
+    rotate(calc(var(--wind) * 1.25deg));
+}
+.foliage-lower {
+  clip-path: polygon(0 51%, 49% 51%, 49% 100%, 0 100%);
+  transform-origin: 0 95%;
+  transform: translate(calc(var(--wind) * 2px), calc(var(--wind) * -0.8px))
+    rotate(calc(var(--wind) * -0.65deg));
+  animation: none;
+}
+.wall-shadow {
+  position: absolute;
+  inset: 0;
+  clip-path: polygon(86.2% 0, 97.5% 0, 97.5% 66%, 86.2% 61%);
+  pointer-events: none;
+  mix-blend-mode: multiply;
+}
+.wall-shadow-cast {
+  position: absolute;
+  inset: 0;
+  background: url("../../public/hero/foreground-leaves.webp") center/cover
+    no-repeat;
+  filter: brightness(0) blur(4px);
+  opacity: 0.3;
+  transform-origin: 0 0;
+  transform: translate(
+      calc(79% + var(--wind) * 10px),
+      calc(13% - var(--wind) * 6px)
+    )
+    rotate(calc(14deg + var(--wind) * 2.2deg));
+  will-change: transform;
+}
+.shadow-secondary {
+  opacity: 0.14;
+  filter: brightness(0) blur(7px);
+  transform: translate(
+      calc(84% + var(--wind) * 7px),
+      calc(31% - var(--wind) * 5px)
+    )
+    rotate(calc(28deg + var(--wind) * 1.6deg));
+}
+.valley-cloud {
+  position: absolute;
+  width: 85%;
+  height: 37%;
+  top: 32%;
+  left: 0;
+  background: url("../../public/hero/cloud-volume.png") center/contain no-repeat;
+  mix-blend-mode: screen;
+  pointer-events: none;
+  animation: valley-rise 24s linear infinite;
+  will-change: transform, opacity;
+}
+.cloud-b {
+  top: 43%;
+  left: 9%;
+  width: 70%;
+  height: 30%;
+  animation-duration: 28s;
+  animation-delay: -9s;
+}
+.cloud-c {
+  top: 49%;
+  left: -7%;
+  width: 83%;
+  height: 28%;
+  animation-duration: 22s;
+  animation-delay: -15s;
+}
+.paused,
+.paused * {
+  animation-play-state: paused !important;
+}
+.cover h1:focus {
+  outline: 0;
+}
+@keyframes valley-rise {
+  0% {
+    transform: translate(-12px, 25px);
+    opacity: 0;
+  }
+  18% {
+    opacity: 0.32;
+  }
+  58% {
+    opacity: 0.28;
+  }
+  100% {
+    transform: translate(23px, -25px);
+    opacity: 0;
+  }
+}
+.archive-tools .date-order {
+  margin-left: auto;
+  font-size: 13px;
+}
+.source-id {
+  display: none;
+}
+.card-copy h2 {
+  margin-top: 3px;
+}
+.font-menu {
+  position: relative;
+  z-index: 8;
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  isolation: isolate;
+}
+.reader-tools .font-menu-trigger {
+  font: 13px var(--font-ui);
+  width: 48px;
+  height: 48px;
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--color-line);
+  background: var(--color-paper-light);
+  border-radius: 4px;
+}
+.font-size-options {
+  position: absolute;
+  left: 42px;
+  top: 0;
+  display: flex;
+  align-items: center;
+  height: 48px;
+  padding: 4px 8px 4px 12px;
+  gap: 2px;
+  width: max-content;
+  background: var(--color-paper-light);
+  border: 1px solid var(--color-line);
+  border-left: 0;
+  border-radius: 0 4px 4px 0;
+  box-shadow: var(--shadow-card);
+  transform: translateX(-15px) scaleX(0.35);
+  transform-origin: left;
+  opacity: 0;
+  visibility: hidden;
+  transition:
+    transform 0.25s,
+    opacity 0.2s,
+    visibility 0.25s;
+  pointer-events: none;
+}
+.font-menu-open .font-size-options {
+  transform: translateX(0) scaleX(1);
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+.reader-tools .font-size-options button {
+  font: 13px var(--font-ui);
+  padding: 10px 12px;
+  min-width: 48px;
+  white-space: nowrap;
+  border-radius: 3px;
+}
+.font-size-options button[aria-checked="true"] {
+  background: var(--color-ink-secondary);
+  color: var(--color-paper-light);
+}
+.article-body {
+  transition: font-size 0.2s ease;
+}
+.article-body figure:has(figcaption) {
+  float: none;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.article-body figcaption {
+  font-family: var(--font-serif);
+  font-size: 0.78em;
+  line-height: 1.7;
+  color: #787267;
+  text-align: center;
+  margin: 12px auto 0;
+  max-width: 100%;
+  white-space: pre-wrap;
+  font-weight: 400;
+}
+.article-body figure:has(figcaption) .media-trigger {
+  width: 100%;
+}
+.article-body figcaption a {
+  color: inherit;
+}
+@media (max-width: 1150px) {
+  .header-space {
+    height: 100px;
+  }
+}
+@media (max-width: 800px) {
+  .header-space {
+    height: 94px;
+  }
+  .global-header {
+    top: 18px;
+    left: 46px;
+    right: 46px;
+  }
+  .global-header.on-cover {
+    left: 6vw;
+    right: 6vw;
+    top: 0;
+  }
+  .font-size-options {
+    left: 0;
+    top: 46px;
+    border-left: 1px solid var(--color-line);
+    border-radius: 4px;
+    padding-left: 8px;
+  }
+  .reader-tools .font-menu-trigger {
+    height: 40px;
+  }
+  .font-menu {
+    min-height: 40px;
+  }
+}
+@media (max-width: 560px) {
+  .header-space {
+    height: 82px;
+  }
+  .global-header {
+    top: 10px;
+    left: 30px;
+    right: 30px;
+    gap: 10px;
+  }
+  .site-header nav a:first-child {
+    display: block;
+  }
+  .global-header nav {
+    gap: 14px;
+  }
+  .global-header.on-cover {
+    top: 0;
+    left: 6vw;
+    right: 6vw;
+  }
+  .on-cover .brand {
+    display: none;
+  }
+  .scene-door {
+    background-position: 57% center;
+  }
+  .foliage,
+  .foliage-underlay {
+    background-position: 57% center;
+    mask-position: 57% center;
+  }
+  .wall-shadow {
+    display: none;
+  }
+  .valley-cloud {
+    width: 180%;
+    height: 33%;
+    left: -58%;
+    top: 36%;
+  }
+  .cloud-b {
+    top: 49%;
+    left: -42%;
+    width: 155%;
+  }
+  .cloud-c {
+    top: 57%;
+    left: -70%;
+  }
+  .font-size-options {
+    left: auto;
+    right: 0;
+    transform-origin: right;
+    transform: translateX(15px) scaleX(0.35);
+  }
+  .font-menu-open .font-size-options {
+    transform: translateX(0) scaleX(1);
+  }
+  .article-body figcaption {
+    font-size: 0.78em;
+  }
+  .global-header .brand {
+    font-size: 19px;
+  }
+  .date-order {
+    font-size: 12px !important;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .wind-field {
+    animation: none !important;
+  }
+  .foliage,
+  .wall-shadow,
+  .valley-cloud,
+  .foliage-underlay {
+    display: none;
+  }
+  .active-nav-indicator,
+  .font-size-options,
+  .global-header,
+  .article-body {
+    transition: none !important;
+  }
+}
+.wall-underlay {
+  position: absolute;
+  inset: 0;
+  background: url("../../public/hero/wall-cleanplate.webp") center/cover
+    no-repeat;
+  mask: url("../../public/hero/wall-plane-mask.png") center/cover no-repeat;
+  pointer-events: none;
+}
+@media (max-width: 560px) {
+  .wall-underlay {
+    display: none;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .wall-underlay {
+    display: none;
+  }
+}
+
+/* Fixed clip avoids animated mask re-rasterization; the shadow texture is pre-blurred. */
+.wall-shadow {
+  mask: none;
+  clip-path: var(--wall-clip, polygon(86.2% 0, 97.5% 0, 97.5% 66%, 86.2% 61%));
+  mix-blend-mode: normal;
+}
+.wall-shadow-cast,
+.shadow-secondary {
+  filter: none;
+  background-image: url("../../public/hero/leaf-shadow.png");
+}

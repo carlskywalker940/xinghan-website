@@ -1,0 +1,43 @@
+{
+  "articleId": "05",
+  "images": {
+    "image_001.png": {
+      "layout": "aside",
+      "maxWidth": 280
+    },
+    "image_002.jpg": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_003.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_004.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_005.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_006.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_007.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_008.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    },
+    "image_009.png": {
+      "layout": "contained",
+      "maxWidth": 340
+    }
+  },
+  "toc": [],
+  "preserveSourceOrder": true
+}

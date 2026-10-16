@@ -1,0 +1,433 @@
+[
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "01",
+        "bold": true
+      }
+    ],
+    "align": "center",
+    "id": "09-0001",
+    "sourceOrder": 1
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "仲景像旁的栝楼",
+        "bold": true
+      }
+    ],
+    "align": "justify",
+    "id": "09-0002",
+    "sourceOrder": 2
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_001.png",
+    "sourceSrc": "images/image_001.png",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 1",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 31px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0003",
+    "sourceOrder": 3,
+    "width": 500,
+    "height": 174
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "前段时间电脑无缘无故突然卡在BIOS无法进入系统，给我急的够呛。一查发现是这牌子电脑祖传的掉硬盘问题出现了。幸亏这里头有俩硬盘位，于是给硬盘抠下来插到另一个槽上，复活了过来。于是顺手开始整理电脑里杂乱的文件，在凌乱的电脑桌面上，看到了一个叫植物照片的文件夹，里面有一些上学的时候拍的学校里各种植物的图片。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0004",
+    "sourceOrder": 4
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "上大四的时候开始，喜欢上了观察各种各样的植物，在不能上山的时候，便在学校里四处寻摸。那些多年疏于打理的老旧绿化带、操场的沙坑、路边的砖缝里冒出来的，各种各样类型丰富的“杂草”。看着他们春华秋实，一岁一枯荣，感到生命在时间的河里静谧安详的流淌着。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0005",
+    "sourceOrder": 5
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_002.png",
+    "sourceSrc": "images/image_002.png",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 2",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 479px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0006",
+    "sourceOrder": 6,
+    "width": 747,
+    "height": 530
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "杂草们大概的位置"
+      }
+    ],
+    "align": "center",
+    "id": "09-0007",
+    "sourceOrder": 7
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_003.png",
+    "sourceSrc": "images/image_003.png",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 3",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 225.969px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0008",
+    "sourceOrder": 8,
+    "width": 1080,
+    "height": 141
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "到了硕士那几年，和平街校区在大兴土木，又挖管子又修楼，操场和一些绿化带也在推倒重建，这些“杂草”朋友们的生存空间变得越来越小了。遂开始给他们留影，拍的图片装在了这个文件夹里。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0009",
+    "sourceOrder": 9
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "正好借着这个机会给大家介绍一下，或许有校友可以来看一看以前熟悉但不知名的草木。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0010",
+    "sourceOrder": 10
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "图书馆那边有一片小花园，立着一尊仲景先师的石像。石像周围栽着一些细竹子，由于疏于打理，竹子上爬着不少藤蔓植物。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0011",
+    "sourceOrder": 11
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "比如北方常见的牵牛、圆叶牵牛、罗摩、打碗花之类。但是还有一些叶子长得像某种瓜的植物，一开始在地上爬，匍匐着扩散。它们长得飞快，没过多久就爬的竹子上到处都是。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0012",
+    "sourceOrder": 12
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "不过我一直没找到什么识别特征，识别软件也认不出来。所以我一直脑补是某个职工偷摸种的某种瓜，或者是收获后遗落在角落的某个瓜自己开始繁衍生息。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0013",
+    "sourceOrder": 13
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "直到有一天，这个“瓜藤”开出了一朵我从未见到过的，极具特点的大白花。花瓣边缘裂如流苏，在风中摇曳，阳光下显得格外耀眼。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0014",
+    "sourceOrder": 14
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_004.jpg",
+    "sourceSrc": "images/image_004.jpg",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 4",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 496px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0015",
+    "sourceOrder": 15,
+    "width": 1080,
+    "height": 810
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（反正我是觉得这个花挺好看的）"
+      }
+    ],
+    "align": "center",
+    "id": "09-0016",
+    "sourceOrder": 16
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_005.png",
+    "sourceSrc": "images/image_005.png",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 5",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 225.969px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0017",
+    "sourceOrder": 17,
+    "width": 1080,
+    "height": 141
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "喜欢看草的都知道，绿的时候看大家长得都一样，但只要开花了就能认出来是什么了（我认不出来软件也能认出来了）。inaturalist告诉我这是栝楼，看看细节也对得上。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0018",
+    "sourceOrder": 18
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "作为一个中医学生不由得一阵感慨，栝楼，作为仲景爷常用的一味药，却能够在这里陪在他的身边，仿佛不同时空在这小小的花园交汇。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0019",
+    "sourceOrder": 19
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "药就在这里，古人也用，我也在用。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0020",
+    "sourceOrder": 20
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "栝楼就这样在他老人家的石像边肆意的生长，仿佛一个受宠的孩子，嚷道：“我才是仲景爷的心头好！”同时对旁边的竹子蹬鼻子上脸。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0021",
+    "sourceOrder": 21
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "我也开始期待它们结出栝楼的那一天，试试看仲景爷旁边的栝楼能有什么不一样。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0022",
+    "sourceOrder": 22
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "天气一点点变热，栝楼藤渐渐繁茂，展开一片片巴掌大的叶子，在竹梢上大口汲取着阳光。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0023",
+    "sourceOrder": 23
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "直到有一天晚上，去食堂吃饭路过花园时，发现竹子上的栝楼不见了。竹林前的杂草也全部清理一空，露出黄色的裸露的土地。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0024",
+    "sourceOrder": 24
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "作为中医学生，我对草药还是有些特殊的感情的，他们是我治疗疾病的手段。但他们不单纯是我手中的工具，他们是活生生的生命，仿佛是我的同事，在和我一起看病。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0025",
+    "sourceOrder": 25
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "现在我的同事被铲掉了。虽然这位同事在小花园横行乡里欺行霸市，但他的离去还是令我感到难过。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0026",
+    "sourceOrder": 26
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_006.jpg",
+    "sourceSrc": "images/image_006.jpg",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 6",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 435px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0027",
+    "sourceOrder": 27,
+    "width": 1080,
+    "height": 1439
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（另一朵花）"
+      }
+    ],
+    "align": "center",
+    "id": "09-0028",
+    "sourceOrder": 28
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_007.png",
+    "sourceSrc": "images/image_007.png",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 7",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 225.969px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0029",
+    "sourceOrder": 29,
+    "width": 1080,
+    "height": 141
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "几个星期后，再次路过小花园时，无意中往竹林前的空地一瞥，我的好同事栝楼的藤又从地里冒了出来，展开了他那葫芦科富有特点的叶子。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0030",
+    "sourceOrder": 30
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "再次见面令我十分惊喜，心想：好小子，怪不得你们这些有块根的/多年生的草本植物有“杀不干净的杂草”之名！的确是名不虚传啊！"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0031",
+    "sourceOrder": 31
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "不过这一年里剩下的时间已经不够他再次积蓄能量开花结果了，仿佛受到了很大挫折的样子，再也没有爬到竹子们身上，只是一点一点的在竹林前的小空地上蔓延。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0032",
+    "sourceOrder": 32
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "直到十月份，随着其他杂草朋友们一起枯萎变黄，并在入冬前的一次绿化带维护中销声匿迹。我也始终没机会试试仲景爷身边的栝楼用起来有没有什么不同。"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0033",
+    "sourceOrder": 33
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "不过我相信，只要天花粉还在土地下面蛰伏待发，我们一定还会再见面的！"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0034",
+    "sourceOrder": 34
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_008.png",
+    "sourceSrc": "images/image_008.png",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 8",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 0px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "09-0035",
+    "sourceOrder": 35,
+    "width": 1080,
+    "height": 84
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "p.s.文案写完了以后，想要寻找一张仲景雕像的照片当做插图，翻遍手机居然没有拍过！所以封面的图是网上偷得，冷不丁一看雕得真是不错！以前天天路过，光顾着低头拍草了，也不抬头看看仲景爷！"
+      }
+    ],
+    "align": "justify",
+    "id": "09-0036",
+    "sourceOrder": 36
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/09/image_009.jpg",
+    "sourceSrc": "images/image_009.jpg",
+    "alt": "不完整的北京某中医院校校园植物志 · 原文插图 9",
+    "sourceStyle": "width: 401px !important; height: auto !important; visibility: visible !important;",
+    "id": "09-0037",
+    "sourceOrder": 37,
+    "width": 1080,
+    "height": 1589
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "撰稿：tomato"
+      }
+    ],
+    "align": "center",
+    "id": "09-0038",
+    "sourceOrder": 38
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "编辑：jacklyn"
+      }
+    ],
+    "align": "center",
+    "id": "09-0039",
+    "sourceOrder": 39
+  }
+]

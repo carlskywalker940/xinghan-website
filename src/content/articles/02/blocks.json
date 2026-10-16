@@ -1,0 +1,734 @@
+[
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "第3"
+      }
+    ],
+    "align": "center",
+    "id": "02-0001",
+    "sourceOrder": 1
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "篇"
+      }
+    ],
+    "align": "center",
+    "id": "02-0002",
+    "sourceOrder": 2
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "观前提示：本文后半部分含有解剖图片，请按照个人情况酌情阅读。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0003",
+    "sourceOrder": 3
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "上回写到一位老师喊我去吃饭，等菜的时候跟我说他脸上得了带状疱疹之后看东西重影，问我有没有招。"
+      },
+      {
+        "text": "\n"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0004",
+    "sourceOrder": 4
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这可让他找对人了！"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0005",
+    "sourceOrder": 5
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "咱们一起来看看具体是怎么个情况："
+      }
+    ],
+    "align": "justify",
+    "id": "02-0006",
+    "sourceOrder": 6
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这位老师三个星期前发现右侧太阳穴、额头处皮疹，并且有"
+      },
+      {
+        "text": "簇状水疱"
+      },
+      {
+        "text": "（这是带状疱疹的特征之一），除此之外呢，还伴有畏光、视力下降、头痛、乏力这些症状。这带状疱疹长脸上了搁谁都得吓一跳，于是去旁边北医三院看病去了，诊断为带状疱疹。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0007",
+    "sourceOrder": 7
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "接下来就是规范的治疗：吃了"
+      },
+      {
+        "text": "7"
+      },
+      {
+        "text": "天阿昔洛韦来抗病毒，并且由于发病位置靠近眼睛，为防止病毒影响虹膜、睫状肌等功能，同时又滴了"
+      },
+      {
+        "text": "14"
+      },
+      {
+        "text": "天阿昔洛韦滴眼液。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0008",
+    "sourceOrder": 8
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "到我看诊的时候呢，右侧额头、太阳穴疼（"
+      },
+      {
+        "text": "已经开始后遗神经痛哩"
+      },
+      {
+        "text": "）。并且能够看到带状疱疹留下的瘢痕和色素沉着。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0009",
+    "sourceOrder": 9
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "在看东西方面呢，有很明显的复视，而由于看东西重影，睁开双眼活动一下就会头晕，只能闭着右眼当独眼龙。并且还有怕光，流泪，眼睛容易疲劳这些症状。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0010",
+    "sourceOrder": 10
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_001.jpg",
+    "sourceSrc": "images/image_001.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 1",
+    "sourceStyle": "height: auto !important; width: 170px !important; visibility: visible !important;",
+    "id": "02-0011",
+    "sourceOrder": 11,
+    "width": 564,
+    "height": 569
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "进行简单的体格检查发现：右眼外展跟左眼比明显受限。瞳孔对光反射正常，初步排除了中枢的问题。用角膜映光法检查发现：右眼的映光点位于外侧瞳孔缘。这说明右眼偏斜了"
+      },
+      {
+        "text": "10"
+      },
+      {
+        "text": "～"
+      },
+      {
+        "text": "15"
+      },
+      {
+        "text": "度。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0012",
+    "sourceOrder": 12
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_002.jpg",
+    "sourceSrc": "images/image_002.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 2",
+    "sourceStyle": "height: auto !important; visibility: visible !important; width: 676.992px !important;",
+    "id": "02-0013",
+    "sourceOrder": 13,
+    "width": 1080,
+    "height": 460
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "看这个角度大家可能心里没有概念，让我来翻译一下：这意味着在正常阅读的距离下（约"
+      },
+      {
+        "text": "30cm"
+      },
+      {
+        "text": "），两只眼睛看到的字能差出"
+      },
+      {
+        "text": "5"
+      },
+      {
+        "text": "～"
+      },
+      {
+        "text": "7cm"
+      },
+      {
+        "text": "；而在日常生活中，距离自己"
+      },
+      {
+        "text": "6"
+      },
+      {
+        "text": "米的物体，会变成两个相距"
+      },
+      {
+        "text": "1"
+      },
+      {
+        "text": "～"
+      },
+      {
+        "text": "1.5"
+      },
+      {
+        "text": "米的东西！这能不晕吗！"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0014",
+    "sourceOrder": 14
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_003.jpg",
+    "sourceSrc": "images/image_003.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 3",
+    "sourceStyle": "width: 170px !important; height: auto !important; visibility: visible !important;",
+    "id": "02-0015",
+    "sourceOrder": 15,
+    "width": 611,
+    "height": 498
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（这位患者的重影程度比这个萨卡班甲鱼还要严重）"
+      }
+    ],
+    "align": "center",
+    "id": "02-0016",
+    "sourceOrder": 16
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "再摸个脉，沉细涩，考虑气血亏，嗯，很合理，毕竟虚了才容易被这个病毒感染是吧。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0017",
+    "sourceOrder": 17
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "先搞点中药外用糊在脸上疼的地方，再辨证开个内服的汤剂，补补气血通通络脉，解决一下疼的问题。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0018",
+    "sourceOrder": 18
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "而这个重影的毛病，就轮到咱们的“目系”针法施展拳脚了。闭上眼睛，右侧风府附近取穴，行针至针感放射至外展肌。据患者描述这是一种以麻为主，兼有酸重的感觉。再睁开眼睛以后，惊讶的发现，他看向正前方大概"
+      },
+      {
+        "text": "3"
+      },
+      {
+        "text": "米远的一个彩色笔筒，重影近了大概三分之一。且怕光等不舒服的感觉也得到了缓解。见此，这位老师颇为惊异，遂结合自身专业背景大谈中医与现代技术融合问题，此处省略具体内容"
+      },
+      {
+        "text": "……"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0019",
+    "sourceOrder": 19
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "之后的治疗中，每次重影都会当场近一些，直到治了"
+      },
+      {
+        "text": "5"
+      },
+      {
+        "text": "次之后右眼虽易疲劳，长时间使用电子设备后需要休息一段时间，但已能够正常生活工作。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0020",
+    "sourceOrder": 20
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_004.jpg",
+    "sourceSrc": "images/image_004.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 4",
+    "sourceStyle": "height: auto !important; width: 139px !important; visibility: visible !important;",
+    "id": "02-0021",
+    "sourceOrder": 21,
+    "width": 563,
+    "height": 562
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "那么，发现针刺枕部可以将针感传导至眼睛并且能够治疗复视这一现象之后。除了感叹老祖宗怎么什么犄角旮旯的东西都能试出来以外，那么我们这种针感的传递是否具有物质基础呢？这种感觉是通过什么样的结构来进行传递的呢？"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0022",
+    "sourceOrder": 22
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "通常来说，产生针感的结构包括神经，肌肉，筋膜（包括骨膜），血管这些，扎到不同的组织针感也不一样，针感可以在这些结构中以不同的感觉向其他部位传导。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0023",
+    "sourceOrder": 23
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "那么我们在脖子后面扎到了啥能连到眼睛呢？"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0024",
+    "sourceOrder": 24
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_005.jpg",
+    "sourceSrc": "images/image_005.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 5",
+    "sourceStyle": "height: auto !important; width: 453px !important; visibility: visible !important;",
+    "id": "02-0025",
+    "sourceOrder": 25,
+    "width": 846,
+    "height": 694
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "枕部神经血管肌肉结构，来源：3d body"
+      }
+    ],
+    "align": "center",
+    "id": "02-0026",
+    "sourceOrder": 26
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "是神经吗？"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0027",
+    "sourceOrder": 27
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（这里指较大的神经，毕竟肌肉筋膜里都有神经纤维的存在）"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0028",
+    "sourceOrder": 28
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "脖子那里归从脊髓发出的颈神经们管，眼睛那些都归颅神经管，他们连不到一起去。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0029",
+    "sourceOrder": 29
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "是血管吗？"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0030",
+    "sourceOrder": 30
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这里也没有大的血管，刺激到血管壁难以产生针感传导。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0031",
+    "sourceOrder": 31
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "那就只能是肌肉筋膜系统的事情了。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0032",
+    "sourceOrder": 32
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "首先看看我们在脖子这里能扎到什么。外边斜方肌，往里一点是头半棘肌、头夹肌。他们看起来都很难和眼外肌扯上关系。那再往里呢，我们就来到了枕后肌群。这个枕后肌群可就有点说法了，他们含有大量的张力感受器。这些感受器人枕后肌群能够在头眼反射等过程中精细的协调眼球与头部的运动，并且让他们具备了体位感知等本体感觉功能。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0033",
+    "sourceOrder": 33
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "那他们跟眼睛又有什么关系呢？"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0034",
+    "sourceOrder": 34
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "大家可以试着做一个简单的动作：放下手机，伸直脖子，双手手指轻轻压在枕骨下方的肌肉上，用力向各个方向的极限位置转动眼球，体会手下的感觉。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0035",
+    "sourceOrder": 35
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "在转动眼球时，我们会摸到枕部的肌肉也会随之运动，仿佛有一根绳子从眼球拉着枕部的肌肉。这跟我们所说的“目系”十分接近了！"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0036",
+    "sourceOrder": 36
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "接下来，我们就可以按图索骥，寻找枕后肌群与眼外肌的肌筋膜联系了。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0037",
+    "sourceOrder": 37
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "在"
+      },
+      {
+        "text": "枕下肌群"
+      },
+      {
+        "text": "中，头后大直肌、头后小直肌会分出一些纤维，形成一种叫做"
+      },
+      {
+        "text": "肌硬膜桥"
+      },
+      {
+        "text": "的结构，与硬脊膜相连，而硬脊膜向上在枕骨大孔处与"
+      },
+      {
+        "text": "硬脑膜"
+      },
+      {
+        "text": "相接续，实际上是一个整体。硬脑膜在眶尖处与视神经鞘合并形成"
+      },
+      {
+        "text": "总腱环"
+      },
+      {
+        "text": "，而总腱环则是外展肌等多数"
+      },
+      {
+        "text": "眼外肌"
+      },
+      {
+        "text": "的起点！"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0038",
+    "sourceOrder": 38
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_006.jpg",
+    "sourceSrc": "images/image_006.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 6",
+    "sourceStyle": "height: auto !important; width: 467px !important; visibility: visible !important;",
+    "id": "02-0039",
+    "sourceOrder": 39,
+    "width": 873,
+    "height": 844
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "RMi：头后小直肌，MB：肌硬膜桥，Dura：硬脊膜，SC：脊髓"
+      }
+    ],
+    "align": "center",
+    "id": "02-0040",
+    "sourceOrder": 40
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_007.jpg",
+    "sourceSrc": "images/image_007.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 7",
+    "sourceStyle": "height: auto !important; visibility: visible !important; width: 676.984px !important;",
+    "id": "02-0041",
+    "sourceOrder": 41,
+    "width": 1080,
+    "height": 771
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "硬脑膜、视神经鞘汇合形成总腱环，也被称为“"
+      },
+      {
+        "text": "Zinn"
+      },
+      {
+        "text": "环”。包裹着视神经、眼动脉和大多数与视力、眼球运动和各种调节相关的脑神经（红圈处）"
+      }
+    ],
+    "align": "center",
+    "id": "02-0042",
+    "sourceOrder": 42
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/02/image_008.jpg",
+    "sourceSrc": "images/image_008.jpg",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 8",
+    "sourceStyle": "height: auto !important; visibility: visible !important; width: 676.992px !important;",
+    "id": "02-0043",
+    "sourceOrder": 43,
+    "width": 1080,
+    "height": 968
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "总腱环和与之相连的眼外肌"
+      }
+    ],
+    "align": "center",
+    "id": "02-0044",
+    "sourceOrder": 44
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "当然，以上是仅是建立在解剖结构上的推测，针感和张力的传递路径并非必然如此。如果以上假设成立的话，那么我们真的从枕后找到了一条“目系”，连接到眼睛。各位有条件的情况下可以进行进一步的研究。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0045",
+    "sourceOrder": 45
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "最后以《黄帝内经》结尾："
+      }
+    ],
+    "align": "justify",
+    "id": "02-0046",
+    "sourceOrder": 46
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "若夫八尺之士，皮肉在此，外可度量切循而得之，其死可解剖而视之。其脏之坚脆，腑之大小，谷之多少，脉之长短，血之清浊，气之多少，十二经之多血少气，与其少血多气，与其皆多血气，与其皆少血气，皆有大数。其治以针艾，各调其经气，固其常有合乎。"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0047",
+    "sourceOrder": 47
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "总之，中医尤其是针灸临床所见之奇妙现象，或许多有具体结构作为依托。在资料丰富的当代，我们不必真拿一个八尺之士来解剖而视之，在丰富的解剖文献中翻找一下，或许会有奇妙的发现！"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0048",
+    "sourceOrder": 48
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（终于填完坑了祝大家新年快乐！）"
+      }
+    ],
+    "align": "center",
+    "id": "02-0049",
+    "sourceOrder": 49
+  },
+  {
+    "kind": "gif",
+    "asset": "/media/articles/02/image_009.gif",
+    "sourceSrc": "images/image_009.gif",
+    "alt": "眼睛后面居然有根管子（下） · 原文插图 9",
+    "sourceStyle": "height: auto !important; width: 245px !important; visibility: visible !important;",
+    "id": "02-0050",
+    "sourceOrder": 50,
+    "width": 540,
+    "height": 540
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "图片来源："
+      }
+    ],
+    "align": "justify",
+    "id": "02-0051",
+    "sourceOrder": 51
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "https://mp.weixin.qq.com/s/xfZvp4Fev6lTv4Exbrd1kA",
+        "href": "https://mp.weixin.qq.com/s?__biz=MzAxMjg1NTQ0Mw==&mid=2652475032&idx=1&sn=301001872b6beda7aa2974909df50106&scene=21#wechat_redirect"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0052",
+    "sourceOrder": 52
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "https://mp.weixin.qq.com/s/XHxZU3Bx8WK7-n_Fl1wpJw"
+      }
+    ],
+    "align": "justify",
+    "id": "02-0053",
+    "sourceOrder": 53
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "撰文：tomato"
+      }
+    ],
+    "align": "center",
+    "id": "02-0054",
+    "sourceOrder": 54
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "审核：jacklyn"
+      }
+    ],
+    "align": "center",
+    "id": "02-0055",
+    "sourceOrder": 55
+  }
+]

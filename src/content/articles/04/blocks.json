@@ -1,0 +1,276 @@
+[
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "第3"
+      }
+    ],
+    "align": "center",
+    "id": "04-0001",
+    "sourceOrder": 1
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "篇"
+      }
+    ],
+    "align": "center",
+    "id": "04-0002",
+    "sourceOrder": 2
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "本科的时候，刚开始入门中医，报了一门讲中药的课程。课上提到了《神农本草经》中出现的一个病名：目眩。并提到了与这个病相关的身体结构（也就是病所）：目系。老师引用了《灵枢·大惑论》中的一段论述："
+      }
+    ],
+    "align": "justify",
+    "id": "04-0003",
+    "sourceOrder": 3
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "五脏六腑之精气，皆上注于目而为之精。精之窠为眼，骨之精为瞳子，筋之精为黑眼，血之精为络，其窠气之精为白眼，肌肉之精为约束，裹撷筋骨血气之精，而与脉并为系。"
+      },
+      {
+        "text": "上属于脑，后出于项中。"
+      },
+      {
+        "text": "故"
+      },
+      {
+        "text": "邪中于项"
+      },
+      {
+        "text": "，因逢其身之虚，其入深，则随眼系以入于脑。入于脑则脑转，脑转则引目系急。"
+      },
+      {
+        "text": "目系急则目眩"
+      },
+      {
+        "text": "以转矣"
+      },
+      {
+        "text": "。邪中其精，其精所中不相比也，则精散。精散则视歧，视歧见两物。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0004",
+    "sourceOrder": 4
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "看不懂也没关系，我来翻译一下，首先这个脖子前面叫“颈”后面叫“项”。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0005",
+    "sourceOrder": 5
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这段大概是在说：眼睛很重要啊，需要五脏六腑给他供养。给他供养的那个橡胶水管叫目系，从脖子后面穿过脑子连到眼睛。一旦赶上你虚的时候脖子后面受了风，这个风就钻进脖子里拽那跟叫目系的水管子，就像你去踩住了浇草坪的水管一样，一拽这管子就不好使了，你就晕乎了，看东西重影。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0006",
+    "sourceOrder": 6
+  },
+  {
+    "kind": "gif",
+    "asset": "/media/articles/04/image_001.gif",
+    "sourceSrc": "images/image_001.gif",
+    "alt": "眼睛后面居然有根管子（上） · 原文插图 1",
+    "sourceStyle": "height: auto !important; visibility: visible !important; width: 240px !important;",
+    "id": "04-0007",
+    "sourceOrder": 7,
+    "width": 240,
+    "height": 240
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（风邪在殴打你的目系）"
+      }
+    ],
+    "align": "center",
+    "id": "04-0008",
+    "sourceOrder": 8
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "那咋治呢？大家问道。内经里也没有明说。于是这位老师进行了展开，表示针灸施术的位置就在“项”。并很骄傲的介绍了自己之前的一个病例：扎风府穴治一个看东西重影的患者，针尖往左一偏，针感到左眼，针往右偏到右眼。找到针感后，往里捻针重影靠近，往外拧重影距离变远。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0009",
+    "sourceOrder": 9
+  },
+  {
+    "kind": "gif",
+    "asset": "/media/articles/04/image_002.gif",
+    "sourceSrc": "images/image_002.gif",
+    "alt": "眼睛后面居然有根管子（上） · 原文插图 2",
+    "sourceStyle": "height: auto !important; visibility: visible !important; width: 240px !important;",
+    "id": "04-0010",
+    "sourceOrder": 10,
+    "width": 240,
+    "height": 240
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "这个故事令当时的我十分惊奇，觉得自己学到了什么不得了的东西，也让我深刻的记住了眼睛后面有一根叫“目系”的管子。不过那些年一直没能碰到重影的患者，于是作罢。时间一点点来到了读硕士的阶段。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0011",
+    "sourceOrder": 11
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "硕士导师是搞肿瘤方向的，以针灸作为特色，能够在当下便缓解患者的不适感。他对我们非常的信任，门诊所有的针灸治疗都是由我们来操作。老师会在病历本上写一下治疗的大体方向，实际上赋予我们很大的发挥主观能动性的空间。肿瘤的患者常常这也难受那也难受，让我见到了各种各样的症状并尝试去解决它（在此给老师磕一个）。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0012",
+    "sourceOrder": 12
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "一天的门诊来了一个食道癌脑转移的老爷子，由于脑转移导致头痛头晕，右侧更甚。右眼痛，特别干，睁不开，闭着右眼走进治疗室，让他用力睁开右眼后能够看到里面满布血丝。接过病历本一看，老师让我用手法松解一下颅底。好嘛，我确实知道有人能够通过指力让感觉传到颅内以及眼睛，不过我不太行。那这个患者也不能简单揉吧揉吧放他走吧，于是我跟患者说：你这个得扎针。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0013",
+    "sourceOrder": 13
+  },
+  {
+    "kind": "image",
+    "asset": "/media/articles/04/image_003.png",
+    "sourceSrc": "images/image_003.png",
+    "alt": "眼睛后面居然有根管子（上） · 原文插图 3",
+    "sourceStyle": "vertical-align: middle; max-width: 100%; width: 526px !important; box-sizing: border-box; height: auto !important; visibility: visible !important;",
+    "id": "04-0014",
+    "sourceOrder": 14,
+    "width": 526,
+    "height": 468
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "（当时的手写病历，凑付看看吧）"
+      }
+    ],
+    "align": "center",
+    "id": "04-0015",
+    "sourceOrder": 15
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "当时具体考虑了什么已经记不大清了，大概就是足太阳经“还出别下项”，说明项这里是从深处钻出来的一个点，可以在这里进行操作。并且在从“项”钻出来之前刚经过脑子（入络脑），且经络主病上来就是“冲头痛，目似脱”。最终选择了右侧足太阳经天柱穴附近。一针下去，捣一捣，捻一捻，患者说针感刷的一下到了右眼，并且这种感觉仿佛水流滋润了眼睛，让眼睛不那么干痛了。再进行提插捻转后，患者表示另一种感觉缓慢的从扎针的地方沿着后脑往上，最终到达前额，让整个头松开了一样。留针直至针感消退，患者感到舒服许多，睁着右眼离开诊室。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0016",
+    "sourceOrder": 16
+  },
+  {
+    "kind": "gif",
+    "asset": "/media/articles/04/image_004.gif",
+    "sourceSrc": "images/image_004.gif",
+    "alt": "眼睛后面居然有根管子（上） · 原文插图 4",
+    "sourceStyle": "width: 227px !important; height: auto !important; visibility: visible !important;",
+    "id": "04-0017",
+    "sourceOrder": 17,
+    "width": 450,
+    "height": 450
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "虽然扎针的时候没有想那么多，但我回头一琢磨，又想起前面提到的目系。这个刷的一下到眼睛的感觉，我估计就是通过目系过去的。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0018",
+    "sourceOrder": 18
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "理论通，接下来但凡碰见带着眼睛头疼的，我就给他脖子后面来上一针，不好使再通过分析具体经络。通过实践发现，从风府到风池这一条线都能触发连到眼睛的针感，具体哪里最容易触发这个因人而异。嗯，老祖宗还是很严谨的，正因如此，书上写的是“项”而不是具体的“风府”之类的穴位。"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0019",
+    "sourceOrder": 19
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "目系这个故事有点长，先写这一截，接下来尽快把坑填完！"
+      }
+    ],
+    "align": "justify",
+    "id": "04-0020",
+    "sourceOrder": 20
+  },
+  {
+    "kind": "gif",
+    "asset": "/media/articles/04/image_005.gif",
+    "sourceSrc": "images/image_005.gif",
+    "alt": "眼睛后面居然有根管子（上） · 原文插图 5",
+    "sourceStyle": "height: auto !important; visibility: visible !important; width: 240px !important;",
+    "id": "04-0021",
+    "sourceOrder": 21,
+    "width": 240,
+    "height": 240
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "撰文：tomato"
+      }
+    ],
+    "align": "center",
+    "id": "04-0022",
+    "sourceOrder": 22
+  },
+  {
+    "kind": "paragraph",
+    "runs": [
+      {
+        "text": "特别鸣谢：jacklyn"
+      }
+    ],
+    "align": "center",
+    "id": "04-0023",
+    "sourceOrder": 23
+  }
+]
